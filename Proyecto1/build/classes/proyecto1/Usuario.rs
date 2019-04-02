@@ -1,0 +1,9 @@
+proyecto1.MisPrestamos$VentanaDevolver
+proyecto1.PrestarBiblioteca
+proyecto1.AgregarRevista
+proyecto1.MiBiblioteca
+proyecto1.AgregarLibro
+proyecto1.Usuario
+proyecto1.MisPrestamos
+proyecto1.AgregarTesi
+proyecto1.EliminarBiblioteca
